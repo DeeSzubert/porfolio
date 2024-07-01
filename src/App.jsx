@@ -15,7 +15,7 @@ function App() {
         <a href="https://react.dev" target="_blank">
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
-        <h1 style="colour: red">hello world</h1>
+        <h1>hello world</h1>
         <h1>Vite + React</h1>
       </div>
 
